@@ -23,7 +23,7 @@ features:
       details: Desenvolva planos de estudo eficazes em minutos, economizando tempo e melhorando a qualidade do ensino.
 ---
 
-<div id="chat-widget" class="chat-widget">
+<!-- <div id="chat-widget" class="chat-widget">
     <button id="chat-toggle" class="chat-toggle">💬</button>
     <div id="chat-container" class="chat-container hidden">
         <div id="chat-header">
@@ -184,4 +184,4 @@ features:
     }
     
     initChatWidget();
-</script>
+</script> -->
