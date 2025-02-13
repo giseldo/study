@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/study/',
   title: "Gerador de Plano de Estudos",
   description: "Um gerador de plano de estudos",
   themeConfig: {
