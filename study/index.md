@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Plano de Estudos"
   text: "Um gerador com IA"
-  tagline: Meu gerador de plano de estudos personalizado com inteligência artificial
+  tagline: Gere planos de estudos personalizado com inteligência artificial
   actions:
     - theme: brand
       text: Plano de estudo
@@ -17,7 +17,7 @@ features:
       details: Crie um plano de estudos personalizado com inteligência artificial para atender às necessidades específicas dos seus alunos.
     - icon: 🛠️
       title: Simplicidade e Eficiência
-      details: Gere planos de aula completos com atividades envolventes e recursos úteis de forma simples e eficiente.
+      details: Gere planos de estudo completos com recursos de vídeos de forma simples e eficiente.
     - icon: 🛠️
       title: Criação Rápida
       details: Desenvolva planos de estudo eficazes em minutos, economizando tempo e melhorando a qualidade do ensino.
