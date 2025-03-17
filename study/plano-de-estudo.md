@@ -4,10 +4,8 @@ sidebar: False
 ---
 
 <iframe
-	src="https://giseldo-chatstudyplanning.hf.space"
+	src="ttps://giseldo-study-plan-v0.hf.space"
 	frameborder="0"
 	width="1024"
 	height="780"
 ></iframe>
-
-
