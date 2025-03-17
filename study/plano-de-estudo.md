@@ -4,7 +4,7 @@ sidebar: False
 ---
 
 <iframe
-	src="ttps://giseldo-study-plan-v0.hf.space"
+	src="https://giseldo-study-plan-v0.hf.space"
 	frameborder="0"
 	width="1024"
 	height="780"
